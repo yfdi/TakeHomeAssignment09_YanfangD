@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "356177919934",
+    "firebase_url": "https://takehomeassignment09yanfangd.firebaseio.com",
+    "project_id": "takehomeassignment09yanfangd",
+    "storage_bucket": "takehomeassignment09yanfangd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356177919934:android:3662312d55659a93",
+        "android_client_info": {
+          "package_name": "com.example.diyanfang.takehomeassignment09_yanfangd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356177919934-6mki1ain5hcfaf84jkkn3qaeg6ol7ac1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diyanfang.takehomeassignment09_yanfangd",
+            "certificate_hash": "e486db78d5c4682febe6bd8a6764a3da8923b577"
+          }
+        },
+        {
+          "client_id": "356177919934-qkaqc4hgiaphu64s3u3ljakitbmtp7q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZR1tsn0BdJQ30y3wzzgQRduGVADB79so"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356177919934-qkaqc4hgiaphu64s3u3ljakitbmtp7q8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
